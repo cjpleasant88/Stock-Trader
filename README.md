@@ -1,5 +1,9 @@
 # Javascript Application using the Vue.js framework
 
+![StockTrader](https://github.com/cjpleasant88/Stock-Trader/blob/master/stocks.PNG)
+
+## Live App Demo:
+
 > https://cjpleasant88.github.io/Stock-Trader/
 
 ## This application was created following course at Udemy.com
