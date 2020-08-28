@@ -1,6 +1,6 @@
 # Javascript Application using the Vue.js framework
 
-> https://cjpleasant88.github.io/
+> https://cjpleasant88.github.io/Stock-Trader/
 
 ## This application was created following course at Udemy.com
 
