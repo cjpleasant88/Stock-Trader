@@ -1,19 +1,7 @@
-# vue-cli
+# Javascript Application using the Vue.js framework
 
-> A Vue.js project
+> https://cjpleasant88.github.io/Stock-Trader/
 
-## Build Setup
+## This application was created following course at Udemy.com
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-"# Stock-Trader" 
+> https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/
