@@ -6,7 +6,7 @@
 
 > https://www.udemy.com/course/vuejs-2-the-complete-guide/learn/
 
-####Notes:
+#### Notes:
 
 - It is currently using an outdated version of bootstrap (i.e. panel vs card)
 - The app uses vue-resource vs axios for its http get and post calls 
